@@ -1,6 +1,6 @@
 # 🚀 Vault Enterprise with Terraform
 
-This project uses **Terraform** to deploy **HashiCorp Vault Enterprise** inside a Docker container and manage secrets using the **KV v2** secrets engine.
+This project uses **Terraform** to deploy **HashiCorp Vault Enterprise** inside a Docker container.
 
 ---
 
